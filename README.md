@@ -6,7 +6,16 @@
     <ul>
         <li>
         i carry some enthusiasm to learn new things every now and then</li>
-        the languages that i work on
+        the languages that i work on <ul>
         <li>c/c++</li>
         <li>html/CSS</li>
         <li>java/javascript</li>
+        </ul>
+
+# you can find me on 
+<img src="logos.jpg" alt="" height="1310px" width="1920px" usemap="#logo">
+<map name="logo">
+    <area shape="circle" coords="392,374,237" href="https://www.facebook.com/" alt="" target="_blank">
+    <area shape="circle" coords="960,370,229" href="https://www.instagram.com/wasupnoop" alt="" target="_blank">
+    <area shape="circle" coords="1527,366,225" href="https://www.tiktok.com/" alt="" target="_blank">
+</map>
