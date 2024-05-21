@@ -13,4 +13,4 @@
         </ul>
 
 # you can find me on 
-<a href="https://www.instagram.com/wasupnoop/"><img src="C:\Users\Administrator\Downloads\logoo.jpeg"></a>
+<a href="https://www.instagram.com/wasupnoop"><img src="C:\Users\Administrator\Downloads\logoo.jpg" alt="" height="50" width="50"></a>
