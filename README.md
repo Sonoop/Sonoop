@@ -2,7 +2,7 @@
 
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey!!+Myself+Sonoop;Check+out+my+projects" alt="Typing SVG" /></a>
 
-<p>sup i am a sonup</p>
+<p>sup i am sonup</p>
     <ul>
         <li>
         i carry some enthusiasm to learn new things every now and then</li>
